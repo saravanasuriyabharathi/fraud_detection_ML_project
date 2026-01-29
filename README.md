@@ -36,8 +36,9 @@ demonstrate:
 This dataset represents a realistic financial fraud detection scenario.
 
 ---
-screenshorts/<img width="816" height="240" alt="image" src="https://github.com/user-attachments/assets/633af736-c090-4b6a-8df6-94c095fea8d5" />
+screenshorts/
+<img width="816" height="240" alt="image" src="https://github.com/user-attachments/assets/633af736-c090-4b6a-8df6-94c095fea8d5" />
 
 
-## Project Structure
+
 
